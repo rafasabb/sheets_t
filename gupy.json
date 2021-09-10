@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "gupy-sheets",
+  "private_key_id": "b1255c8139e93a88e5e70a28a2974003aa70e8be",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCorMxIsUwg/lir\nJIQ9SPIPdusmPYvvfvT7BEeP7IqFYhx/fA+ukOHszfnrkT9rHYm0nNoALMdbpDeJ\nPFRhqMRdfUHmDxRR7z/xx0iEyv3JCJwESbhFvQKLTfFbSzAdO4Ybi1dqi9nOhoFn\n0FlYcT/97LCH83Kz30f08mdQWcvEVIn6zHnJMVf2eHqQUFGlhcPb/NjLmrFqnAdC\nOgshGsyNypera1499CPVDyQK/OeA2Hr8sMXq7fVw/CP4kb39jNCUkOB0sP7rIAyn\nuK4AS9KR2rrBGVCmGCsjI0OYVQ5AVM6KujPpGbS4H73iWb6rTNNlxmdQPQrwd26k\nHK2lH2/fAgMBAAECggEANKb3/8sEahorQIUeGGlQUj57Sc0VhPWa8E5WLlmWpetJ\n3Quzc3j7ZSmo1X1aEAxA45XAwSQ5OOSKh3bDGlcNsOc8Ll3PqIHn8oeUHgula98Z\noIcIlBBbnnN+n1JZmw5tHuUArRwpqbu34lmZwi9b295J/q4iRH6y3gXa9SyKnGaL\nHhtqYacxjJdMsHaB/t/mbzB7dE5LbIQuCfOX4r9JuCFFthO3MSiHIK84x5db8EeN\nIBURyIhVrgDdV2CtCU0v3hxr51Zl4T1MI1MnvFLpDbLFGzg/6zyxwjyzndwnxFVz\nf4A0e/joUjl0l6a74lgfQ5qfp5OBKv9L2i3vQ4/wXQKBgQDhl6fVaXPyVc3FrATG\njjYUZ79pZzZIaq27HJyQ7rT2m6kygscmQJsyWu5zN3qlU74fDVPJOQhV5DVd7j7O\nxnY6Ed3/I/05naFSdGzXAfpzui5NUJZsyAbit6wGbPIIaYpQo0RQCZqB28KJHb9x\n1GczzeDAKOuzeSXGWItxOUbSNQKBgQC/aSMFjg1h4E0WduW+l8W/q7bnftl0YiMv\npS27SgPsHW2Zf9gtvhGkgjNxakXRFNn4h8c7AX7VKSw33lzqTC1nliXTMk10oZEB\nVU+rE6IZI7jH8GW4BPpDjx4xZK13K4AEslMYiPDNEoOM8EJVlegf80Ycp7m/P7O6\nwnAmf0o8QwKBgBz3Wx6E9tVT/SL3jnlsQzdlhudi0E6GHB6dcuENNYFAxX3t2uJn\ng0X49QsoQYA++3eDP5Hj19Ung063S6tDQmT8bFPZbCdcvR0YQ+1rnJwFePKGeXoo\nSPINgXIlxQIdgxwNirT4NrWb4SO4BR/5lPLK6aPi3TjjQl1wex8jqptNAoGBALu1\nEfgnly4Ntes6zBC9a9qMPYEFn6CHgPP/azqI2hHZxhpLCifJhimq2WH2kuL4LM2R\n8aoGzGejyc48DShjbf9wekWDxfuDWd1R2R/uz/8RTesc79OnZfmMx1Iu5gHAsflp\nGx4rZOHmrwUutA6URJ/YhUAip4BKqymR9kN6fsVbAoGAMBmC+DWUgpywnwIfisjW\nqXSFWtIN8YxT/zpnVSRA+xvXmUkWZrJW3atJU0E/PFn29705vj/oEfBX/TLxaHM8\nqZbj7Kex4/XOO7280ItDC+2MiHell9BxdZELqKzDm0hWM0oglQFDy5ygbBJGOdr+\nzB51babIfWPnK+d4AW5EEGU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "guppy2@gupy-sheets.iam.gserviceaccount.com",
+  "client_id": "109917623032611181187",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/guppy2%40gupy-sheets.iam.gserviceaccount.com"
+}
